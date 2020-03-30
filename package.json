@@ -1,0 +1,11 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "description": "Desenvolvimento do Desafio 01 do modulo 01 GoStack07",
+  "main": "index.js",
+  "author": "GesielBuffer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
